@@ -13,7 +13,6 @@ h2{
   font-family: 'Patrick Hand', cursive;
   text-align: center;
   color:grey;
-  background-color rgb(96, 99, 91);
 }
 h3{
   text-align: center;
@@ -114,6 +113,16 @@ nav li{
      font-family: fantasy;
      text-align: center;
    }
-
+   article{
+    /*border: 2px solid red;*/
+    float: left;
+  }
+  .main-article{
+    width: 70%;
+  }
+  .side-bar-article{
+    width: 30%
+  }
+  
 
 
