@@ -118,10 +118,11 @@ nav li{
     float: left;
   }
   .main-article{
-    width: 70%;
+    width: 60%;
   }
   .side-bar-article{
-    width: 30%
+    width: 30%;
+    float: right;
   }
   
 
