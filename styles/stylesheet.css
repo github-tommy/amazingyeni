@@ -124,8 +124,6 @@ nav li{
     width: 30%;
     float: right;
   }
-  img{
-    transform: rotate(90deg);
-  
-
-
+  div.b {
+      transform: rotate(90deg);
+  }
