@@ -71,9 +71,7 @@ article{
     margin: 10px;
     font-family: 'Patrick Hand', cursive;
   }
-img{
-  transform: rotate(90deg);
-}
+
 h1{
   text-align: center;
   font-size: 3rem;
